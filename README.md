@@ -35,19 +35,19 @@
 <a href="https://drive.google.com/drive/folders/1xrUdVRAyknLZV1iv8jDX5_n14wYF5OlM?usp=sharing">download from this drive link</a>
 
 - seaborn<br>
-    <code>pip install matplotlib</code>
+    <code>pip install seaborn</code>
 
 - openCV<br>
-    <code>pip install matplotlib</code>
+    <code>pip install opencv</code>
 
 - cvzone<br>
-    <code>pip install matplotlib</code>
+    <code>pip install cvzone</code>
 
 - tensorflow<br>
 <a href="https://drive.google.com/drive/folders/1xrUdVRAyknLZV1iv8jDX5_n14wYF5OlM?usp=sharing">download from this drive link</a>
 
 - plotly<br>
-    <code>pip install matplotlib</code>
+    <code>pip install plotly</code>
 
 NOTE: in case your system does not have pip installed, <a href="https://pypi.org/project/pip/">click here</a> to download.
 
