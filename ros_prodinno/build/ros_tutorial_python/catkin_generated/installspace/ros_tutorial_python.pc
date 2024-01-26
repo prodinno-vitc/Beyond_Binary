@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Desktop/ros_prodinno/install
+
+Name: ros_tutorial_python
+Description: Description of ros_tutorial_python
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
