@@ -79,20 +79,22 @@
  <h2>VS code</h2>
  <a href="https://code.visualstudio.com/download">Visual Studion Code download</a>
  
-
+su <br>
+sudo apt install python3-pip<br>
  <h2>Python Libraries</h2>
 
 - sklearn <br>
-<a href="https://drive.google.com/drive/folders/1xrUdVRAyknLZV1iv8jDX5_n14wYF5OlM?usp=sharing">download from this drive link</a>
+<a href="https://drive.google.com/drive/folders/1xrUdVRAyknLZV1iv8jDX5_n14wYF5OlM?usp=sharing">download from this drive link</a><br>
+<code>pip install scipy</code>
 
 - pandas<br>
-<a href="https://drive.google.com/drive/folders/1xrUdVRAyknLZV1iv8jDX5_n14wYF5OlM?usp=sharing">download from this drive link</a>
+    <code>pip install pandas</code>
 
 - seaborn<br>
     <code>pip install seaborn</code>
 
 - openCV<br>
-    <code>pip install opencv</code>
+    <code>pip install opencv-python</code>
 
 - cvzone<br>
     <code>pip install cvzone</code>
