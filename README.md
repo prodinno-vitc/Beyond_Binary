@@ -20,7 +20,7 @@
  - click Finish and it will start the setup of Ubuntu in the virtual box
 
  <h2>ROS NOETIC INSTALLATION</h2>
-
+su root<br>
 <h3> setup your sources.list</h3>
  <pre><small><span class="anchor" id="Installation.2FUbuntu.2FSources.line-1-1"></span>sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" &gt; /etc/apt/sources.list.d/ros-latest.list'</small></pre>
 
