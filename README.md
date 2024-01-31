@@ -33,8 +33,6 @@
 
 <pre><span class="anchor" id="noetic.2FInstallation.2FDebianMetapackages.line-1-3"></span>sudo apt install ros-noetic-desktop-full</pre>
 
-<pre><span class="anchor" id="noetic.2FInstallation.2FDebianMetapackages.line-1-5"></span>sudo apt install ros-noetic-PACKAGE</pre>
-
 
 
 <h2>environment setup</h2>
