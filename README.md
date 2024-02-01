@@ -20,7 +20,7 @@
  - click Finish and it will start the setup of Ubuntu in the virtual box
 
  <h2>ROS NOETIC INSTALLATION</h2>
-
+su root<br>
 <h3> setup your sources.list</h3>
  <pre><small><span class="anchor" id="Installation.2FUbuntu.2FSources.line-1-1"></span>sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" &gt; /etc/apt/sources.list.d/ros-latest.list'</small></pre>
 
@@ -32,8 +32,6 @@
 <pre><span class="anchor" id="noetic.2FInstallation.2FDebianMetapackages.line-1-1"></span>sudo apt update</pre>
 
 <pre><span class="anchor" id="noetic.2FInstallation.2FDebianMetapackages.line-1-3"></span>sudo apt install ros-noetic-desktop-full</pre>
-
-<pre><span class="anchor" id="noetic.2FInstallation.2FDebianMetapackages.line-1-5"></span>sudo apt install ros-noetic-PACKAGE</pre>
 
 
 
@@ -81,20 +79,22 @@
  <h2>VS code</h2>
  <a href="https://code.visualstudio.com/download">Visual Studion Code download</a>
  
-
+su <br>
+sudo apt install python3-pip<br>
  <h2>Python Libraries</h2>
 
 - sklearn <br>
-<a href="https://drive.google.com/drive/folders/1xrUdVRAyknLZV1iv8jDX5_n14wYF5OlM?usp=sharing">download from this drive link</a>
+<a href="https://drive.google.com/drive/folders/1xrUdVRAyknLZV1iv8jDX5_n14wYF5OlM?usp=sharing">download from this drive link</a><br>
+<code>pip install scipy</code>
 
 - pandas<br>
-<a href="https://drive.google.com/drive/folders/1xrUdVRAyknLZV1iv8jDX5_n14wYF5OlM?usp=sharing">download from this drive link</a>
+    <code>pip install pandas</code>
 
 - seaborn<br>
     <code>pip install seaborn</code>
 
 - openCV<br>
-    <code>pip install opencv</code>
+    <code>pip install opencv-python</code>
 
 - cvzone<br>
     <code>pip install cvzone</code>
